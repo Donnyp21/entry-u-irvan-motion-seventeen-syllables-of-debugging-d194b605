@@ -4,7 +4,7 @@
 
 # Seventeen Syllables of Debugging
 
-One haiku about debugging — 5-7-5 syllables, 81 characters:
+One haiku about debugging — 5-7-5 syllables, 80 characters:
 
 > breakpoint holds its breath
 > the stack trace lies, then lies twice
